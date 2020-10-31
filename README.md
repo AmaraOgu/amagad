@@ -1,2 +1,2 @@
-# amagad
+# Amagad
 Our git trial.
